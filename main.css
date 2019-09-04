@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+.inner {
+  max-width: 1200px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.menu-bar {
+  width: 100%;
+  display: inline-block;
+  background-color: #009246;
+  color: white;
+}
+
+.menu-bar .left {
+  display: inline-block;
+  max-width: 200px;
+  width: 100%;
+  padding: 20px;
+}
+
+.menu-bar .left img {
+  width: 100%;
+}
+
+.menu-bar .right {
+  width: calc(100% - 205px);
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+}
+
+.menu-bar .right a {
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 30px;
+  display: inline-block;
+  height: 124px;
+  padding-top: 48px;
+}
+
+.menu-bar .right .selected, .menu-bar .right .selected:hover {
+  background-color: firebrick;
+  text-decoration: none;
+}
+
+.menu-bar .right a:hover {
+  text-decoration: underline;
+}
+
+.sale {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+.image-holder {
+  background-image: url('https://daccaa.com/danny/pizza.jpg');
+  background-size: cover;
+  background-position: center;
+  min-height: 480px;
+  height: 1px; /* hack to get the overlay to size */
+}
+
+.image-holder .overlay {
+  background: rgba(0, 0, 0, 0.5);
+  height: 100%;
+}
+
+.image-holder .overlay .text {
+  color: white;
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.image-holder .overlay .button {
+  margin-top: 20px;
+}
+
+.image-holder .overlay .button a {
+  background-color: firebrick;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  min-width: 180px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+
+.image-holder .overlay .button a:hover {
+  background-color: #771818;
+}
