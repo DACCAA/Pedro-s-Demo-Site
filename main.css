@@ -43,12 +43,11 @@
 }
 
 .menu-bar .right .selected, .menu-bar .right .selected:hover {
-  background-color: firebrick;
-  text-decoration: none;
+  background-color: #005127;
 }
 
 .menu-bar .right a:hover {
-  text-decoration: underline;
+  background-color: #006631;
 }
 
 .sale {
@@ -81,7 +80,7 @@
 }
 
 .image-holder .overlay .button a {
-  background-color: firebrick;
+  background-color: #009246;
   padding: 20px;
   border-radius: 10px;
   color: white;
@@ -93,5 +92,20 @@
 }
 
 .image-holder .overlay .button a:hover {
-  background-color: #771818;
+  background-color: #006631;
+}
+
+.pedro {
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#map {
+    width: 100%;
+    height: 600px;
+}
+
+.content .desc {
+  font-size: 24px;
 }
