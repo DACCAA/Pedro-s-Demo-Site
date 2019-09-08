@@ -1,5 +1,5 @@
 # Pedro's Demo Site
-This is the demo site for Pedro as part of the DACCAA Tutorial.
+This is the demo site for Pedro as part of the DACCAA Tutorial. You will notice we use Apple Map's for its privacy stance instead of Google Maps however embedding Google Maps is a much more simple process. We recommend taking a look at [https://mapkitjs.rubeng.nl/](https://mapkitjs.rubeng.nl/) as it shows you how to embed Apple Maps.
 
 ## I've found an issue
 If you have found an issue or a better way to do something, please report it via GitHub's issues.
