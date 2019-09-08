@@ -1,7 +1,7 @@
 function loadMap() {
   mapkit.init({
     authorizationCallback: function(done) { done('eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjVMMlUyWDZMTTcifQ.eyJpc3MiOiJYTTQ3M1lSVk5TIiwiaWF0IjoxNTY3OTgyNjkyLCJleHAiOjI1MzQ4ODUwOTIsIm9yaWdpbiI6Imh0dHBzOi8vZGFjY2FhLmNvbSJ9.U5P2COklxl4zhSuz_-FghwmuUfj-uP6QBrVlx2lMBMQgrPlWa_Fmx2eNFF4B8gyw7xeXKTWS4_LNnj7FWzVOSg'); 
-                                           // You will need to replace this with your own Apple Maps key - https://mapkitjs.rubeng.nl/ use this site to generate your own key.
+    // You will need to replace ^ done('<this>') ^ with your own Apple Maps key - https://mapkitjs.rubeng.nl/ use this site to generate your own key.
     }
   });
   
