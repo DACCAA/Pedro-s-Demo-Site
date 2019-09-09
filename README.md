@@ -12,6 +12,8 @@ You will notice we use Apple Map's for its privacy stance instead of Google Maps
 * Add more PHP such as day based deals
 * CSS animations
 * Some JS loading
+* SEO meta tags
+* Favicon
 
 ## I've found an issue
 If you have found an issue or a better way to do something, please report it via GitHub's issues.
