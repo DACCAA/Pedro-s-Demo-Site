@@ -57,7 +57,66 @@
     </div>
   </div>
   
+  <div class="quote">
+    <div class="inner">
+      <div class="q-msg">
+        I taught my son everything he needs in life to make the perfect pizza for you.
+      </div>
+      <div class="q-author">
+        ~ Pedro's Pa ~
+      </div>
+    </div>
+  </div>
+  
+  <div class="content">
+    <div class="inner">
+      <div class="desc">
+        If you want to browse our full and expansive menu then you can do so on the menu page or by <a href="menu.php">clicking here</a>. Our authentic Italian recipies are inspired by my ol'Pa and we just want you to have a pleasant experience when you dine with us here at Pedro's Pizza.
+      </div>
+    </div>
+  </div>
+  
   <div id="map"></div> 
+  
+  <div class="f-footer">
+    <div class="col-hold">
+      <div class="col">
+        <div class="footer-title">
+          Title Section
+        </div>
+        <div class="footer-desc">
+          This is a description about the type of content that is shown in this area and should be of a fair length, like this description is.
+        </div>
+      </div>
+      <div class="col">
+        <div class="footer-title">
+          Title Section
+        </div>
+        <div class="footer-desc">
+          This is a description about the type of content that is shown in this area and should be of a fair length, like this description is.
+        </div>
+      </div>
+      <div class="col">
+        <div class="footer-title">
+          Title Section
+        </div>
+        <div class="footer-desc">
+          This is a description about the type of content that is shown in this area and should be of a fair length, like this description is.
+        </div>
+      </div>
+      <div class="col">
+        <div class="footer-title">
+          Title Section
+        </div>
+        <div class="footer-desc">
+          This is a description about the type of content that is shown in this area and should be of a fair length, like this description is.
+        </div>
+      </div>
+    </div>
+    <div class="long">
+      This website is &copy; DACCAA 2019.
+    </div>
+  </div>
   
   <script src="https://code.jquery.com/jquery-3.1.0.js"></script>
   <script src="https://cdn.apple-mapkit.com/mk/5.x.x/mapkit.js"></script>
