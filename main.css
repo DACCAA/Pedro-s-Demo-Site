@@ -109,3 +109,65 @@
 .content .desc {
   font-size: 24px;
 }
+
+.quote .inner {
+  border-top: solid 1px #ccc;
+  border-bottom: solid 1px #ccc;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.quote .q-msg {
+  font-size: 50px;
+  text-align: center;
+  color: #009246;
+  font-weight: 100;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.quote .q-author {
+  color: #009246;
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.f-footer {
+  background-color: #323232;
+  color: white;
+}
+
+.f-footer .col-hold {
+  width: 100%;
+  max-width: 1200px;
+  display: block;
+  margin: 0 auto;
+}
+
+.f-footer .col-hold .col {
+  padding: 20px;
+  width: calc(100% / 4 - 10px);
+  text-align: left;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.f-footer .col-hold .col .footer-title {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.f-footer .col-hold .col .footer-desc {
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.f-footer .long {
+  width: 100%;
+  max-width: 1200px;
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+}
